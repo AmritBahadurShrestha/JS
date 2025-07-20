@@ -15,7 +15,7 @@ class Person {
         console.log('Hi', this.name)
     }
 }
-const Arish = new Person('Arish', 25, '9868821709')
+const Arish = new Person('Arish', 25, '9868821700')
 const Kiran = new Person('Kiran', 27, '9868821710')
 
 console.log(Arish)
